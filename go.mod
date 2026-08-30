@@ -4,7 +4,7 @@ go 1.26.4
 
 require (
 	github.com/go-tex/math v0.18.0
-	golang.org/x/text v0.40.0
+	golang.org/x/text v0.41.0
 )
 
 require github.com/go-opentype/opentype v0.6.0 // indirect
