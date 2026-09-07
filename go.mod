@@ -3,7 +3,7 @@ module github.com/go-tex/tex
 go 1.26.4
 
 require (
-	github.com/go-tex/math v0.26.0
+	github.com/go-tex/math v0.29.0
 	golang.org/x/text v0.41.0
 )
 
