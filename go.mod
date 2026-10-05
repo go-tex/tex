@@ -1,6 +1,6 @@
 module github.com/go-tex/tex
 
-go 1.26.4
+go 1.27.1
 
 require (
 	github.com/go-tex/math v0.48.0
