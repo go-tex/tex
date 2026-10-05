@@ -1,6 +1,6 @@
-github.com/go-opentype/opentype v0.12.0 h1:wBlcDi+3ZaNZXEt5z+Ixr11/cYYwi5W+jX6yTl/qr1I=
-github.com/go-opentype/opentype v0.12.0/go.mod h1:AOixevJf7XQaH7+WG+OMIOZEbYPXfMqklVk26Y6YTUU=
-github.com/go-tex/math v0.48.0 h1:4TT424krxz5sOgoC/KAOm3f8go+GSwnZE6cPc5YjdtY=
-github.com/go-tex/math v0.48.0/go.mod h1:SaB8XOWZXooetm1elSfY0UHwPbyhbditTZxbGoCzjXE=
+github.com/go-opentype/opentype v0.13.0 h1:q9K7IGDfwMP/ik51ZkwiYf6jbaqPfocvAIuojetd0UQ=
+github.com/go-opentype/opentype v0.13.0/go.mod h1:AOixevJf7XQaH7+WG+OMIOZEbYPXfMqklVk26Y6YTUU=
+github.com/go-tex/math v0.50.0 h1:YHJ3LYzS45zBoPKGBkZW4+LUQkOeHP30YWLsfXGZCpo=
+github.com/go-tex/math v0.50.0/go.mod h1:cPm5juijQkhFj1MCByLF8tOfZ+UswAGUPBh+Wy6+vbw=
 golang.org/x/text v0.42.0 h1:JbOZXgfeCPU9gacVtYliJqOhD+zhrEqK4LfdpmlUZqI=
 golang.org/x/text v0.42.0/go.mod h1:ojzP1Z+2QtioaF8DTtO8K5q7JWVVYwZKenzujK0Zd0E=
